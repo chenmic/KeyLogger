@@ -1,0 +1,2 @@
+in order to create an exectuable, write in cmd line:
+	python setup.pyw py2exe
