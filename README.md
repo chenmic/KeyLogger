@@ -1,2 +1,2 @@
 # KeyLogger
-Python key logger for university project
+Python keylogger for university project
